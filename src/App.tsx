@@ -1,5 +1,7 @@
+import { InterviewPrep } from './InterviewPrep/InterviewPrep';
+
 function App() {
-  return <>React App</>;
+  return <InterviewPrep />;
 }
 
 export default App;
